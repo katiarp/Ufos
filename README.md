@@ -5,7 +5,7 @@ Dana is a journalist and UFO enthusiast from McMinnville, Oregon.  She has alway
 
 ## Analysis
 The purpose of this website is to allow UFO enthusiasts to explore UFO sighting data, so that they know specific details about documented sightings, such as date, city, shape, etc. 
-To build this website, Dana utilized data that was presented in a JavaScript object and used JavaScript language to create different filters. 
+To build this website, Dana utilized data that was presented in a JavaScript object and used JavaScript  to create different filters. 
 
 
 ### Initial Results
@@ -68,7 +68,7 @@ This is the final website containing the four filters.
 
 ![Image_name](Resources/four_filters.png)
 
-This website provides the ability to search by date, state, city, and shape of UFO. To perform a search, the user enters a text in any of the search boxes and hits enter or sets the cursor in any other search box to refine the search, the table is then updated with only the records that match any or all the search criteria.
+This website provides the ability to search by country, state, city, and shape of UFO. To perform a search, the user enters a text in any of the search boxes and hits enter or sets the cursor in any other search box to refine the search, the table is then updated with only the records that match any or all the search criteria.
 
 Here’s a screenshot of a search done by a user looking for a specific UFO sighting that had an unusual triangle shape that happened in San Diego, CA. 
 
@@ -79,7 +79,7 @@ Here’s a screenshot of a search done by a user looking for a specific UFO sigh
 
 One drawback of the current website is that the date search box was removed; yet, if we wanted to add it again, we could refine it. Previously the date search box allowed the user to enter any text; however, we could improve the date filter by allowing the user to select a date with a calendar. Using a calendar would let the user select a date and enter it in the correct format. 
 
-Other recommendations for further development are alerts and buttons. For instance, we could alert the user that some filters were applied to the table and display the number of records matching the criteria. Another drawback of the current website is that it can only display the whole data again by removing the text of each input box to clear the filters, so we could also add a button to clear filters to make it easier for the user. 
+Other recommendations for further development are alerts and buttons. For instance, we could alert the user that some filters were applied to the table and display the number of records matching the criteria. Another drawback of the current website is that it can only display the entire data back by removing each text entry in the input boxes to clear the filters, so we could also add a button to clear filters to make it easier for the user. 
 
 Dana’s website was an interesting project and UFO enthusiasts will certainly have a good time exploring this data.  
 
